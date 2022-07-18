@@ -1,2 +1,3 @@
-# hacker-news-stats
-Easy way to query stats for HackerNews
+# Hacker News Stats
+
+Simple comment and story stats from the HackerNews API
